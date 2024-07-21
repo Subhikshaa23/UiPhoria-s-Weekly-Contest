@@ -1,6 +1,6 @@
-# UiPhoria's Weekly Contest 
+# UiPhoria's Weekly Contest - Season 1
 
-## Season 1 Problem Statements
+### Problem Statements 
 - Week 1 
     - Fees Collection
     - Basic Login Page
