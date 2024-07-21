@@ -1,0 +1,31 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "country&Sequence_2",
+        "ExtractDataTable&Sequence_2",
+        "output&Sequence_2",
+        "tc&Sequence_7",
+        "deaths&Sequence_7",
+        "rec&Sequence_7",
+        "opdata&Sequence_7"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "email",
+        "pass"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
