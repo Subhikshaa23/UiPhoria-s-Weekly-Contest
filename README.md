@@ -9,7 +9,7 @@
 - Week 4 - Message Decoder
 - Week 5 - Whois Domain Lookup
 - Week 6 - CAT Result Analysis
-- [Week 7 - File Directory](UiPhoria-s-Weekly-Contest/tree/main/FileDirectory)
-- [Week 8 - Coronavirus Stat-Alert Bot](UiPhoria-s-Weekly-Contest/tree/main/CoronavirusStat-AlertBot)
-- [Week 9 - Mobile Recommendation](UiPhoria-s-Weekly-Contest/tree/main/MobileRecommendation)
+- [Week 7 - File Directory](FileDirectory)
+- [Week 8 - Coronavirus Stat-Alert Bot](CoronavirusStat-AlertBot)
+- [Week 9 - Mobile Recommendation](MobileRecommendation)
 - Week 10 - Image Background Removal
